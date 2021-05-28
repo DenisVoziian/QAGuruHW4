@@ -1,0 +1,86 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+
+@DenisVoziian
+DenisVoziian
+/
+qa_guru
+1
+0
+0
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+qa_guru/.gitignore
+
+Denis Voziian Initial commit
+Latest commit 8c38105 7 days ago
+ History
+ 0 contributors
+41 lines (36 sloc)  397 Bytes
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.iml
+
+# Project gen files
+.idea
+.allure/
+.gradle/
+allure-results/
+gradle/
+build/
+bin/
+out/
+logs/
+target/
+.classpath
+.project
+.settings/org.eclipse.buildship.core.prefs
+.vscode
+/gradlew
+/gradlew.bat
+.todo
+local.properties
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
