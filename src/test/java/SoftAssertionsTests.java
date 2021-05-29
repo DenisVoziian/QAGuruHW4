@@ -11,7 +11,7 @@ public class SoftAssertionsTests {
     private String selenidePage = "/selenide/selenide";
 
     private String searchPage = "SoftAssertions",
-            searchDataOnPage = "JUnit5";
+            searchDataOnPage = "Using JUnit5 extend test class";
 
     private SelenideElement wikiLink = $("[data-content=Wiki]"),
     searchPageInput = $("#wiki-pages-filter"),
